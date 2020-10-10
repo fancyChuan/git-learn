@@ -8,11 +8,11 @@
 - 项目级别
     - git config user.name xxxx
     - git config user.email yyy@github.com
-    - 信息存放位置： ./.git/config文件
+    - 信息存放位置： 项目主目录/.git/config文件
 - 系统级别（全局）
-    - git config user.name xxxx
-        - git config user.email yyy@github.com
-        - 信息存放位置： ~/.gitconfig文件
+    - git config --global user.name xxxx
+    - git config --global user.email yyy@github.com
+    - 信息存放位置： ~/.gitconfig文件
 > 用户签名的邮箱是可以不存在的，只是用来区分是识别不同用户
 
 git日志
