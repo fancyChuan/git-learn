@@ -1,5 +1,7 @@
 # git-learn
 
+![image](image/git常用命令.png)
+
 本地库和远程库的交互方式
 - 团队内协作
 - 团队外协作：使用PR功能
